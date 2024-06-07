@@ -3,4 +3,4 @@
 Technologies :
 - Laravel 11
 - Bootstrap v5.3
-- SQLite
+- MYSQL
